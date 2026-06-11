@@ -34,8 +34,8 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "ljc666"         # 用户名
 UUID = "e13ccb69-3db6-4fe0-a7ef-a980f4c60b12"                     # UUID，留空则自动生成
 PORT = 57879                    # Vmess端口，留空或0则自动生成
-DOMAIN = ""                   # 域名，留空则自动获取
-CF_TOKEN = ""                 # Cloudflare Token，留空则用Quick Tunnel
+DOMAIN = "bb.lbl.kdns.fr"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiZmEyMDljZDdmZjZkNWM2YTk3NWNkOTlhMzMwNTc1MmUiLCJ0IjoiOWZhZTVjNDctYjlmMy00NTAwLWI4NTgtNmU1Njc2ZTg0YzVhIiwicyI6Ik56bGxaVFl6TlRBdFpURm1aUzAwWXpoakxUazRZMll0TkRBNU9EZzFOR1ZrTjJVeiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
